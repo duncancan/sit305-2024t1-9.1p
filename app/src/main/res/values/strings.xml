@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">7.1P Lost &amp; Found App</string>
+    <string name="CreateNew">Create a New Report</string>
+    <string name="ShowAll"><![CDATA[Show All Lost & Found Items]]></string>
+    <string name="Lost">Lost</string>
+    <string name="Found">Found</string>
+    <string name="PostType">Post Type:</string>
+    <string name="ItemDetailsHeading">Item Details</string>
+    <string name="ItemNameLabel">Name:</string>
+    <string name="ItemDescriptionLabel">Description:</string>
+    <string name="Back">Back</string>
+    <string name="Save">Save</string>
+    <string name="PhoneNumberLabel">Phone:</string>
+    <string name="UserNameLabel">Name:</string>
+    <string name="UserDetailsHeading">Your Details</string>
+    <string name="ItemLocationLabel">Location:</string>
+    <string name="ItemFoundDateLabel">Lost/found date:</string>
+    <string name="LostAndFoundHeading"><![CDATA[Lost & Found Items]]></string>
+    <string name="When">When:</string>
+    <string name="At">At:</string>
+    <string name="ContactUserPrompt">Contact the user who found this item</string>
+    <string name="Delete">Delete</string>
+    <string name="DeleteLabel">Has this item been returned to its owner? If so, you can delete it:</string>
+    <string name="title_activity_maps_create">MapsCreateActivity</string>
+    <string name="UseCurrentLocation">Use Current Location</string>
+    <string name="SelectLocation">Confirm Location</string>
+    <string name="ShowAllOnMap">Show All On Map</string>
+    <string name="SelectItem">Select</string>
+</resources>
